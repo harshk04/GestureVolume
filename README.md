@@ -5,9 +5,9 @@ GestureVolume is a Python-based project that enables volume control on a compute
 
 ## Features
 Hand gesture recognition: GestureVolume uses computer vision algorithms to detect and recognize hand gestures.
-Volume control: The project allows users to control the system volume by performing specific hand gestures.
-Real-time adjustment: The volume changes are applied in real-time, providing immediate feedback to the user.
-Platform independence: GestureVolume is designed to work on multiple platforms, as it utilizes inbuilt modules that are available across different operating systems.
+**Volume control:** The project allows users to control the system volume by performing specific hand gestures.
+**Real-time adjustment:** The volume changes are applied in real-time, providing immediate feedback to the user.
+**Platform independence:** GestureVolume is designed to work on multiple platforms, as it utilizes inbuilt modules that are available across different operating systems.
 
 
 ## Dependencies
@@ -40,9 +40,9 @@ Once calibrated, you can control the system volume by performing the specified h
 ## Customization
 GestureVolume provides options for customization based on your specific requirements. Here are a few customization possibilities:
 
-Gesture recognition: You can modify or extend the hand gestures recognized by GestureVolume by modifying the gesture recognition logic in the code.
-Volume control behavior: Adjust the volume control behavior, such as the step size or sensitivity, to suit your preferences by modifying the corresponding parameters in the code.
-User interface: Enhance the user interface by adding additional visual elements or integrating with other libraries to provide a more user-friendly experience.
+**Gesture recognition:** You can modify or extend the hand gestures recognized by GestureVolume by modifying the gesture recognition logic in the code.
+**Volume control behavior:** Adjust the volume control behavior, such as the step size or sensitivity, to suit your preferences by modifying the corresponding parameters in the code.
+**User interface:** Enhance the user interface by adding additional visual elements or integrating with other libraries to provide a more user-friendly experience.
 Feel free to explore these customization options to adapt GestureVolume to your needs and preferences.
 
 
