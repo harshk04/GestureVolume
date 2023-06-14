@@ -16,9 +16,15 @@ Hand gesture recognition: GestureVolume uses computer vision algorithms to detec
 ## Dependencies
 To run GestureVolume, you need the following dependencies:
 
-Python (version 3.7 or higher)
-OpenCV
-Numpy
+1. Python (version 3.7 or higher)
+
+2. OpenCV
+
+3. Numpy
+
+4. Time
+
+5. HandTracking Module
 
 You can install these dependencies by running the following command:
 `pip install opencv-python numpy`
