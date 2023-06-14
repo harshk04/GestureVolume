@@ -5,6 +5,7 @@ GestureVolume is a Python-based project that enables volume control on a compute
 
 ## Features
 Hand gesture recognition: GestureVolume uses computer vision algorithms to detect and recognize hand gestures.
+
 **Volume control:** The project allows users to control the system volume by performing specific hand gestures.
 
 **Real-time adjustment:** The volume changes are applied in real-time, providing immediate feedback to the user.
