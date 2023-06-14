@@ -70,4 +70,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Acknowledgments
 GestureVolume is developed using Python and leverages the OpenCV library for computer vision tasks.
+
 We acknowledge the open-source community for providing resources and inspiration for building computer vision applications.
