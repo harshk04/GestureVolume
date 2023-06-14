@@ -41,8 +41,11 @@ Once calibrated, you can control the system volume by performing the specified h
 GestureVolume provides options for customization based on your specific requirements. Here are a few customization possibilities:
 
 **Gesture recognition:** You can modify or extend the hand gestures recognized by GestureVolume by modifying the gesture recognition logic in the code.
+
 **Volume control behavior:** Adjust the volume control behavior, such as the step size or sensitivity, to suit your preferences by modifying the corresponding parameters in the code.
+
 **User interface:** Enhance the user interface by adding additional visual elements or integrating with other libraries to provide a more user-friendly experience.
+
 Feel free to explore these customization options to adapt GestureVolume to your needs and preferences.
 
 
